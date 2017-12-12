@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\hau cherng\documents\visual studio 2017\projects\ase q2\ase q2\container.h(64): warning C4018: '<': signed/unsigned mismatch
+  c:\users\hau cherng\documents\visual studio 2017\projects\ase q2\ase q2\main.cpp(40): note: see reference to function template instantiation 'void genericTestPerformance<std::unordered_map<std::string,std::string,std::hash<_Kty>,std::equal_to<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>>(MAP &,std::string,int)' being compiled
+          with
+          [
+              _Kty=std::string,
+              _Ty=std::string,
+              MAP=std::unordered_map<std::string,std::string,std::hash<std::string>,std::equal_to<std::string>,std::allocator<std::pair<const std::string,std::string>>>
+          ]
+c:\users\hau cherng\documents\visual studio 2017\projects\ase q2\ase q2\container.h(85): warning C4018: '<': signed/unsigned mismatch
+  ASE q2.vcxproj -> C:\Users\Hau Cherng\Documents\Visual Studio 2017\Projects\ASE q2\Debug\ASE q4.exe
+  ASE q2.vcxproj -> C:\Users\Hau Cherng\Documents\Visual Studio 2017\Projects\ASE q2\Debug\ASE q4.pdb (Partial PDB)
